@@ -1,4 +1,4 @@
-# JellyFish-Phylum-Recogniztion-
+# JellyFish-Phylum-Recognition
 An Image Classifier made with Convolution Neural Network and Pooling layers to recognize 5 different Species of Jellyfish listed below :
 
 * Australian Spotted Jellyfish (Phyllorhiza punctata)
